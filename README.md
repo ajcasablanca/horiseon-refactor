@@ -29,3 +29,6 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 (./Assets/01-html-css-git-homework-demo.png)
+
+
+I refactored the orginal code to include more semantic HTML.  I created a README file.
